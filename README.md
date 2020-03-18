@@ -4,9 +4,9 @@
 1. 
 
 ## Dataset Description
-<h2> Easy: </h2>
+<b> Easy: </b>
 
-<h2> Challenge: </h2>
+<b> Challenge: </b>
 
 ## Baseline
 
