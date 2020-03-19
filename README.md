@@ -15,7 +15,7 @@ Challenge-Train Set: 1119 questions
 Challenge-Test Set: 1172 questions  
 Challenge-Development Set: 299 questions  
 
-<b> Reference: </b> 
+<b> Reference: </b>  
 P. Clark, I. Cowhey, O. Etzioni, T. Khot, A. Sabharwal, C. Schoenick, and O. Tafjord. 2018. Think you have solved question answering? Try ARC, the AI2 reasoning challenge. CoRR, abs/1803.05457.
 
 <b> Example: </b>  
