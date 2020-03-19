@@ -4,7 +4,7 @@
 1. 
 
 ## Dataset Description
-The data set could found [Allen Institute for AI ARC](https://leaderboard.allenai.org/arc/submissions/public). The dataset contains 7,787 natural grade-school level multiple-choice SCIENCE questions. This dataset's level of difficulty requires far more powerful knowledge and reasoning capability than ever before datasets such SQuAD or SNLI. The data set has two partitions: EASY Set and CHALLENGE Set.
+The data set could found [Allen Institute for AI ARC](https://leaderboard.allenai.org/arc/submissions/public). The dataset contains 7,787 natural grade-school level multiple-choice SCIENCE questions. This dataset's level of difficulty requires far more powerful knowledge and reasoning capability than ever before datasets such SQuAD or SNLI. The data set has two partitions: EASY Set and CHALLENGE Set. And inside each set, it is also devided into train, test and development sets. The data set also
 
 <b> Easy: </b>  
 Easy-Train Set: 2251 questions  
@@ -18,8 +18,8 @@ Challenge-Train Set: 1119 questions
 Challenge-Test Set: 1172 questions  
 Challenge-Development Set: 299 questions  
 
-Reference: Todor Mihaylov, Peter Clark, Tushar Khot, and Ashish
-Sabharwal. 2018. Can a suit of armor conduct electricity? a new dataset for open book question answering.
+Reference:  
+P. Clark, I. Cowhey, O. Etzioni, T. Khot, A. Sabharwal, C. Schoenick, and O. Tafjord. 2018. Think you have solved question answering? Try ARC, the AI2 reasoning challenge. CoRR, abs/1803.05457.
 
 <b> Example: </b>  
 What causes sound?  
