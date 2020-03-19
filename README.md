@@ -8,6 +8,8 @@
 
 <b> Challenge: </b>
 
+Reference: Todor Mihaylov, Peter Clark, Tushar Khot, and Ashish
+Sabharwal. 2018. Can a suit of armor conduct electricity? a new dataset for open book question answering.
 ## Baseline
 
 ## Approaches
