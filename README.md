@@ -23,7 +23,7 @@ Sabharwal. 2018. Can a suit of armor conduct electricity? a new dataset for open
 
 <b> Example: </b>  
 What causes sound?  
-* A. sunlight  
+&nbsp A. sunlight  
 * B. vibrations  
 * C. x-rays  
 * D. pitch  
