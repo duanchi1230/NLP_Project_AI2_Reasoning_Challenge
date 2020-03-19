@@ -27,6 +27,6 @@ What causes sound?
 ## Baseline
 
 ## Existing Papers
-1. 
+1. Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Thomas Goldstein, and Jingjing Liu. Freelb: Enhanced adversarial training for language understanding. arXiv preprint arXiv:1909.11764, 2019.  
 
 ## Approaches
