@@ -19,11 +19,20 @@ Challenge-Development Set: 299 questions
 P. Clark, I. Cowhey, O. Etzioni, T. Khot, A. Sabharwal, C. Schoenick, and O. Tafjord. 2018. Think you have solved question answering? Try ARC, the AI2 reasoning challenge. CoRR, abs/1803.05457.
 
 <b> Example: </b>  
-What causes sound?  
-&nbsp; &nbsp; A. sunlight  
-&nbsp; &nbsp; B. vibrations  
-&nbsp; &nbsp; C. x-rays  
-&nbsp; &nbsp; D. pitch  
+EASY:
+Which technology was developed most recently?  
+&nbsp; &nbsp; A. cellular telephone(correct)  
+&nbsp; &nbsp; B. television  
+&nbsp; &nbsp; C. refrigerator  
+&nbsp; &nbsp; D. airplane  
+
+CHALLENGE:
+Which technology was developed most recently?  
+&nbsp; &nbsp; A. cellular telephone  
+&nbsp; &nbsp; B. television  
+&nbsp; &nbsp; C. refrigerator  
+&nbsp; &nbsp; D. airplane (correct)
+
 ## Baseline
 
 ## Existing Papers
