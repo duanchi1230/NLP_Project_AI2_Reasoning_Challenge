@@ -1,4 +1,4 @@
-# NLP_Project_AI2_Reasoning_Challenge
+# NLP_Project_AI2_Reasoning_Challenge ( Currently Under Development)
 
 ## Dataset Description
 The data set could found [Allen Institute for AI ARC](https://leaderboard.allenai.org/arc/submissions/public). The dataset contains 7,787 natural grade-school level multiple-choice SCIENCE questions. This dataset's level of difficulty requires far more powerful knowledge and reasoning capability than ever before datasets such SQuAD or SNLI. The data set has two partitions: EASY Set and CHALLENGE Set. And inside each set, it is also devided into train, test and development sets. A corpus is also given in the dataset which could be used as background inforamtion source. But the ARC challenge is not limited to this corpus knowledge and it could also be open book.
