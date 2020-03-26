@@ -1,5 +1,5 @@
 # NLP_Project_AI2_Reasoning_Challenge ( Currently Under Development)
-## Branches (undervelopment)
+## Branches (under development)
 Current there are five branches corresponging to our five group members. Each branch will contain codes, papers to read and other materials.
 
 ## Dataset Description
