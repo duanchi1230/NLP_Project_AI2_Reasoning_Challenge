@@ -37,10 +37,10 @@ Which technology was developed most recently?
 
 ## Baseline
 We use the [AristoRoBERTaV7](https://leaderboard.allenai.org/arc/submission/blcotvl7rrltlue6bsv0) as our baseline model. Currently AristoRoBERTaV7 can achieve accuracy around 0.66 on the test set.
-## Existing Papers
-1. Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Thomas Goldstein, and Jingjing Liu. Freelb: Enhanced adversarial training for language understanding. arXiv preprint arXiv:1909.11764, 2019. The baseline model is based on the [RoBERTa-Large model](https://arxiv.org/abs/1907.11692) and submitted by the Aristo team at Allen Institute for AI in Aug 2019.
 
 ## Our Model 
 Currently, the bigest change in models to tackle the ARC dataset lies in the fact that it is difficult to search the macthing paragraphs in the background knowledge due to the broad range of the questions from math, phasics, biology, chemstry,  and various science subjects. The search method in most models are based tf-idf matching the keyword in questions and answer. In our first round error analysis of the base model, we find many of the wrong answers are caused by unmatching background paragraph and ambiguous paragraph. We plan to adopt some innovative search methods which improve the search method. And we are still DEVELOPPING the method now. In regarding to the language model, we plan to adopt BERT or RoBERT. Content of our method will be updated soon...
+## Existing Papers
+1. Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Thomas Goldstein, and Jingjing Liu. Freelb: Enhanced adversarial training for language understanding. arXiv preprint arXiv:1909.11764, 2019. The baseline model is based on the [RoBERTa-Large model](https://arxiv.org/abs/1907.11692) and submitted by the Aristo team at Allen Institute for AI in Aug 2019.
 ## Further Reading
 1. [Transformer Visualization](http://jalammar.github.io/illustrated-transformer/)  
