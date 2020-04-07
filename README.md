@@ -40,6 +40,6 @@ Which technology was developed most recently?
 
 ## Approaches
 <b> BERT </b>  
-The model [BERT](https://github.com/google-research/bert) will be used as language model. We are also exploring potential methods for knowledge search. (contents are to be updated)
+The model [BERT](https://github.com/google-research/bert) will be used as language model. We are also exploring potential methods for knowledge search. (contents are to be updated in short future)
 ## Further Reading
 1. [Transformer Visualization](http://jalammar.github.io/illustrated-transformer/)  
