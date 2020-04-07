@@ -39,7 +39,7 @@ Which technology was developed most recently?
 1. Chen Zhu, Yu Cheng, Zhe Gan, Siqi Sun, Thomas Goldstein, and Jingjing Liu. Freelb: Enhanced adversarial training for language understanding. arXiv preprint arXiv:1909.11764, 2019.  
 
 ## Approaches
-<b> BERT </b> 
-The model BERT will be used as language model.
+<b> BERT </b>  
+The model [BERT](https://github.com/google-research/bert) will be used as language model. We are also exploring potential methods for knowledge search.
 ## Further Reading
 1. [Transformer Visualization](http://jalammar.github.io/illustrated-transformer/)  
